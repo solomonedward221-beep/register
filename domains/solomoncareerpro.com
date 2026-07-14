@@ -1,0 +1,13 @@
+{
+  "description": "My personal website",
+  "domain": ".com",
+  "subdomain": "solomon",
+  "owner": {
+    "repo": "https://github.com/solomon/solomon.github.io",
+    "email": "solomon@gmail.com"
+  },
+  "record": {
+    "CNAME": "solomon.github.io"
+  },
+  "proxied": false
+}
